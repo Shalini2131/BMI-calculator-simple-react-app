@@ -1,1 +1,2 @@
-"# BMI-calculator-simple-react-app"
+# BMI-calculator-simple-react-app
+## This repository is empty
